@@ -9,7 +9,9 @@ cur_time=datetime.datetime.now()
 cur_time.hour
 if cur_time.hour<12:
 	print("goodmornning!")
-elif 12<=cur_time.hour<18:
+elif 12>=cur_time.hour<18:
 	print("goodafternoon!")
-else:
+elif: 17> cur_time.hour<21
 	print("goodeveniing")
+else:
+	print("goodnight")
