@@ -1,3 +1,13 @@
+#Problem 4:  
+
+#take all input from user .
+
+#i)  check that all character are string
+#ii)  if all char are string then create user in your linux based OS
+#iii)  also create password for same user , password will
+ #     password will be  ===>>     hello{username}
+
+
 #!usr/bin/python3
 
 import os
